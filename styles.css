@@ -1,0 +1,92 @@
+body {
+    background-color: #556B2F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: wheat;
+}
+#Alex {
+    display: flex;
+    width: 45vw;
+    height: 75vh;
+    margin: 0 auto;
+    color:;
+}
+
+.me {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    color: wheat;
+    
+    
+}
+.intro {
+    text-align: center;
+    font-size: 35px;
+}
+
+.projects {
+    font-size: 35px;
+    text-align: center;
+}
+
+.proj1{
+    color: wheat;
+    font-size: 30px;
+}
+
+.proj2repo {
+    color: wheat;
+    font-size: 30px;
+}
+.p2link{
+    color: wheat;
+    font-size: 30px;
+}
+.frontrepo{
+    color: wheat;
+    font-size: 30px;
+}
+.backendrepo{
+    color: wheat;
+    font-size: 30px;
+}
+.playlist{
+    color: wheat;
+    font-size: 30px;
+}
+
+.projects{
+    font-size: 55px;
+}
+.p1{
+  font-size: 45px;
+  text-decoration: none;
+}
+.p1desc{
+    font-size: 40px;
+}
+
+.p2{
+    font-size: 45px;
+}
+.p2desc{
+    font-size: 40px;
+}
+
+.p3{
+    font-size: 45px;
+}
+.p3desc{
+    font-size: 40px;
+}
+
+.p4{
+    font-size: 45px;
+}
+.p4desc{
+    font-size: 40px;
+}
+.list{
+    text-decoration: none;
+}
