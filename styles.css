@@ -1,16 +1,18 @@
 body {
-    background-color: #556B2F;
- font-family: 'Kufam', cursive;
+    background: url('https://static-cse.canva.com/blob/140149/shuja-zed-540871-unsplash.7d6b6a83.jpg');
+    font-family: 'Catamaran', sans-serif;
+ backdrop-filter: blur(5px);
 
-    color: wheat;
+    color: white;
 }
 #Alex {
     display: flex;
-    width: 40vw;
-    height: 70vh;
+    width: 35vw;
+    height: 80vh;
     margin: 0 auto;
+    margin-top: 15px;
     border-radius: 5px;
-    border: 35px solid #ff6961;
+    border: 25px solid white;
 }
 
 .me {
@@ -18,10 +20,9 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     font-size: 50px;
-    color: wheat;
+    color: white;
     
-    
-}
+    }
 .intro {
     text-align: center;
     font-size: 35px;
