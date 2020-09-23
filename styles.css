@@ -1,14 +1,16 @@
 body {
     background-color: #556B2F;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+ font-family: 'Kufam', cursive;
+
     color: wheat;
 }
 #Alex {
     display: flex;
-    width: 45vw;
-    height: 75vh;
+    width: 40vw;
+    height: 70vh;
     margin: 0 auto;
-    color:;
+    border-radius: 5px;
+    border: 35px solid #ff6961;
 }
 
 .me {
@@ -24,6 +26,11 @@ body {
     text-align: center;
     font-size: 35px;
 }
+.personalintro {
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+}
 
 .projects {
     font-size: 35px;
@@ -31,28 +38,28 @@ body {
 }
 
 .proj1{
-    color: wheat;
+    color: #ff6961;
     font-size: 30px;
 }
 
 .proj2repo {
-    color: wheat;
+    color: #ff6961;
     font-size: 30px;
 }
 .p2link{
-    color: wheat;
+    color: #ff6961;
     font-size: 30px;
 }
 .frontrepo{
-    color: wheat;
+    color: #ff6961;
     font-size: 30px;
 }
 .backendrepo{
-    color: wheat;
+    color: #ff6961;
     font-size: 30px;
 }
 .playlist{
-    color: wheat;
+    color: #ff6961;
     font-size: 30px;
 }
 
@@ -89,4 +96,7 @@ body {
 }
 .list{
     text-decoration: none;
+}
+.list{
+    
 }
