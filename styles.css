@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     margin-top: 15px;
     border-radius: 5px;
-    border: 25px solid white;
+    border: 25px solid black;
 }
 
 .me {
@@ -23,7 +23,10 @@ body {
     color: white;
     
     }
-
+.email{
+    font-size: 35px;
+    color: white;
+}
 .contactme{
     font-size: 35px;
 }
@@ -89,13 +92,17 @@ body {
 .p1desc{
     font-size: 40px;
 }
-
+.p1live {
+    font-size: 30px;
+    color: #ff6961
+}
 .p2{
     font-size: 45px;
 }
 .p2desc{
     font-size: 40px;
 }
+
 
 .p3{
     font-size: 45px;
@@ -121,4 +128,9 @@ body {
     backdrop-filter: blur(5px);
     background-color:;
  
+}
+
+.contactpics {
+    color: white;
+    
 }
