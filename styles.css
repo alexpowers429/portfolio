@@ -7,7 +7,7 @@ body {
 }
 #Alex {
     display: flex;
-    width: 35vw;
+    width: 40vw;
     height: 80vh;
     margin: 0 auto;
     margin-top: 15px;
@@ -44,7 +44,7 @@ body {
 .personalintro {
     text-align: center;
     font-size: 20px;
-    text-decoration: underline;
+   
 }
 
 .projects {
@@ -90,7 +90,7 @@ body {
   text-decoration: none;
 }
 .p1desc{
-    font-size: 40px;
+    font-size: 35px;
 }
 .p1live {
     font-size: 30px;
@@ -100,7 +100,7 @@ body {
     font-size: 45px;
 }
 .p2desc{
-    font-size: 40px;
+    font-size: 35px;
 }
 
 
@@ -108,14 +108,14 @@ body {
     font-size: 45px;
 }
 .p3desc{
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .p4{
     font-size: 45px;
 }
 .p4desc{
-    font-size: 40px;
+    font-size: 35px;
 }
 .list{
     text-decoration: none;
@@ -130,7 +130,21 @@ body {
  
 } */
 
-.contactpics {
-    color: white;
+#email {
+    height: 12vh;
+}
+
+
+#linkediconic {
+    height: 12vh
     
+}
+
+#hub{
+    height: 12vh
+}
+
+.contactpics {
+    display: flex;
+    justify-content: center;
 }
