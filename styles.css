@@ -8,11 +8,11 @@ body {
 #Alex {
     display: flex;
     width: 40vw;
-    height: 80vh;
+    height: 40vh;
     margin: 0 auto;
     margin-top: 15px;
-    border-radius: 5px;
-    border: 25px solid black;
+    border-radius: 50%;
+    border: 5px solid black;
 }
 
 .me {
