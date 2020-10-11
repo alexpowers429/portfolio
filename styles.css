@@ -85,9 +85,13 @@ body {
 .projects{
     font-size: 55px;
 }
+.list{
+     list-style-type: none;
+}
 .p1{
   font-size: 45px;
   text-decoration: none;
+ 
 }
 .p1desc{
     font-size: 35px;
@@ -132,16 +136,21 @@ body {
 
 #email {
     height: 12vh;
+     filter: invert(100%);
 }
 
 
 #linkediconic {
-    height: 12vh
+    height: 12vh;
+    filter: invert(100%);
+     
     
 }
 
 #hub{
-    height: 12vh
+    height: 12vh;
+    filter: invert(100%);
+  
 }
 
 .contactpics {
