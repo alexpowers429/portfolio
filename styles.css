@@ -7,8 +7,8 @@ body {
 }
 #Alex {
     display: flex;
-    width: 40vw;
-    height: 40vh;
+    width: 30vw;
+    height: 45vh;
     margin: 0 auto;
     margin-top: 15px;
     border-radius: 50%;
