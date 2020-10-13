@@ -6,10 +6,14 @@ body {
 	color: white;
 }
 #Alex {
-	display: flex;
+	/* display: flex;
 	width: 30vw;
 	height: 48vh;
-	margin: 0 auto;
+	margin: 0 auto; */
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 	margin-top: 15px;
 	border-radius: 50%;
 	border: 5px solid black;
@@ -50,10 +54,11 @@ body {
 	text-align: center;
 }
 .p1img {
-	display: flex;
-	align-content: center;
-	width: 55vw;
-	height: 45vh;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	
 }
 
 .proj1 {
@@ -66,10 +71,10 @@ body {
 	font-size: 30px;
 }
 .p2img {
-	display: flex;
-	align-content: center;
-	width: 55vw;
-	height: 45vh;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
 }
 .p2link {
 	color: #ff6961;
@@ -88,10 +93,10 @@ body {
 	font-size: 30px;
 }
 .p3img {
-	display: flex;
-	align-content: center;
-	width: 55vw;
-    height: 45vh;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
 }
 .suresell {
 	color: #ff6961;
